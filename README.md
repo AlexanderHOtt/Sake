@@ -1,3 +1,5 @@
+# !!! WARNING THIS DOES NOT WORK WITH PYTHON 3.10 BUT IT WON'T STOP YOU !!!
+
 # Sake
 
 A distributed asynchronous cache interface (plus several implementations) designed for use with Hikari.
